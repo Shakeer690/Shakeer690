@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 🎓 B.E. CSE Graduate & Aspiring Java Full Stack Developer 🚀<br>💡 Passionate about robust backend logic & clean frontends.<br>🛠️ Skilled in Java, Spring Boot, SQL & React.<br>📂 Currently building real-world projects.<br>🌱 Always learning,exploring & growing!
 
 
